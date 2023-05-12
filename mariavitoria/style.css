@@ -2,8 +2,8 @@
     margin: 0;
     padding: 0;
 }
- .cabecalho{
-    background-color: #15e9d0;
+ cabecalho{
+    background-color: #05312c;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -14,20 +14,13 @@
     display: inline-block;
     padding: 0 25px;
  }
-.escola-imagem{
+ecola-imagem{
     width: 25%;
 }
-.escola-image{
-    background-image: linear-gradient(#284E51, #c0cacd);
+escola{
+    background-image: -linear-gradient(#284E51, #C0CACD);
     color:white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    padding: 55px 0;
-}
-.escola-conteudo{
-    width: 30%;
-}
-.escola-titulo{
-    padding: 25px 0;
+    
 }
